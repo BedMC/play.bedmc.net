@@ -1,0 +1,13 @@
+#ServerData dirs
+/versions/
+/libraries/
+/cache/
+/logs/
+
+#world dirs
+/world_the_end/
+/world_nether/
+/world/
+
+
+
